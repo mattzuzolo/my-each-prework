@@ -3,10 +3,12 @@ def my_each (array)
   
   i = 0;
   
-  while
+  while array.length > i
   
+      
   
-end
+  i += 1
+  end
   
   
 end
