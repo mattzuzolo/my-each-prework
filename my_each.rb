@@ -5,7 +5,7 @@ def my_each (array)
   
   while array.length > i
   
-      yield puts array[i]
+      yield array[i]
   
   i += 1
   end
